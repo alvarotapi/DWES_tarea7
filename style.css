@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(90deg, #ff6f6f 5%, #9bff9b 100%);
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size: larger;
+}
+
+#div {
+    padding: 20px 20px 20px 20px;
+    background-color: #240808;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    color: wheat;
+}
+
+h2, h3 {
+    color: aquamarine;
+}
+
+ul {
+    list-style: none;
+}
